@@ -1,8 +1,8 @@
-### Hello! 👋
+#### Hello! 👋
 
-#### I love taking on challenges that stretch my mind and make me learn new things!
+##### I'm a passionate developer and I love taking on challenges that stretch my mind and make me learn new things!
 
-#### JavaScript, HTML, CSS, C, React, Express, Node.js, PostgreSQL
+##### JavaScript, HTML, CSS, C, React, Express, Node.js, PostgreSQL
 <!--
 **Isaac-Ewing/Isaac-Ewing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
