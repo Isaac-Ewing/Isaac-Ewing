@@ -1,4 +1,4 @@
-### Hi!
+### Hello! 👋
 
 #### I love taking on challenges that stretch my mind and make me learn new things!
 
