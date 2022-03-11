@@ -3,6 +3,8 @@
 #### I'm a passionate developer and I love taking on challenges that stretch my mind and make me learn new things!
 
 #### JavaScript, HTML, CSS, C, React, Express, Node.js, PostgreSQL
+
+3/11 update: Still coding most days, just not using GitHub for it.
 <!--
 **Isaac-Ewing/Isaac-Ewing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
