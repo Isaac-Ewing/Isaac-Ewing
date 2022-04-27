@@ -4,7 +4,7 @@
 
 #### JavaScript, HTML, CSS, C, React, Express, Node.js, PostgreSQL
 
-3/11 update: Still coding most days, just not using GitHub for it.
+Update: Still coding most days, just not using GitHub for it. I mostly delpoy through Heroku and recently they had a security issue so now I can't deploy from my GitHub, so I just push straight to Heroku.
 <!--
 **Isaac-Ewing/Isaac-Ewing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
